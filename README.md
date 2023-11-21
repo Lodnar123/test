@@ -1,6 +1,5 @@
-# Hello baby
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Svyatoslav!
+===================================================================================================================================
 
-I study in Netology
-
-02.11.2023
-
+I'm beginner developmen.
+------------------------
